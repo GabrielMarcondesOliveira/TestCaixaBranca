@@ -1,11 +1,4 @@
-# Etapa 3 - Critérios de Caixa Branca - (Grafo de Fluxo; Complexidade Ciclomática; Caminhos Básicos)
+# Etapa 4 - Documentação
 
-- Grafo fluxo criado a partir das informações obtidas do código fornecido para a atividade
-
-![image](https://github.com/user-attachments/assets/cd85ac5c-4186-45b5-bc16-78a33f51a5c3)
-
-A fórmula da complexidade ciclomática é:
-
-- V(G)=E−N+2
-- V(G)=10−11+2
-- V(G) = 1
+- Nesse repositório foi feito a análise de um código fornecido pelo professor Daniel Ohata, com intuito de aprender a fundo como funciona um teste de Caixa Branca de forma prática. Nesse projeto foi solicitado o plano de teste estático, que serve para analisar e verificar o código fonte sem que precise executar o programa. Sendo assim, o teste estático visa melhorar a qualidade do código, indentificar problemas e assegurar que seguirá padrões já estabelecidos, também prevê identificação precoce de erros que poderiam causar problemas em fases posteriores do desenvolvimento.
+- Também foi apontado os erros dentro do código fonte, para que pudessemos melhorar a análise e as nossas técnicas na programação e entender os conceitos e como funciona em uma aplicação o grafo de fluxo, a complexidade ciclomática e ps caminhos básicos que há dentro de uma aplicação.
