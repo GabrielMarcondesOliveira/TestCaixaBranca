@@ -9,5 +9,3 @@ A fórmula da complexidade ciclomática é:
 - V(G)=E−N+2
 - V(G)=10−11+2
 - V(G) = 1
-
-- O valor \(1\) indica que o código tem um único caminho independente, o que demonstra baixa complexidade e um fluxo de execução simples. Contudo, práticas como a substituição de concatenações SQL por PreparedStatement e o tratamento mais detalhado de exceções podem melhorar a segurança e a manutenibilidade do código.
