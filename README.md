@@ -1,4 +1,4 @@
-# TestCaixaBranca
+# Etapa 1 - Teste Caixa Branca
 Como descreve a etapa 1 do exercício de Teste de Caixa Branca, os erros encontrados dentro do código são:
 
 - O uso da classe "Class.forName("com.mysql.Driver").newInstance()" não é utilizado, e considerado desnecessário, pois nas versões mais atuais do java basta apenas utilizar a classe "Class.forName" que já estará fazendo a mesma função que a primeira sintaxe;
